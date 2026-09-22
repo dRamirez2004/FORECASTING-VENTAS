@@ -8,5 +8,5 @@ matplotlib==3.8.2
 seaborn==0.13.0
 python-dateutil==2.8.2
 #jupyter==1.0.0
-ipython==8.18.1
-notebook==7.0.6
+#ipython==8.18.1
+#notebook==7.0.6
